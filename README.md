@@ -2,7 +2,7 @@
 A polyglot in the context of programming refers to a developer or engineer who is proficient in multiple programming languages and technologies. 
 
 In this learning session below are some technology we are going to learn. 
-![Golang](https://go.dev/images/go-logo-white.svg "GoLang")
+![Golang](https://go.dev/images/go-logo-blue.svg "GoLang")
 ![Python](https://www.python.org/static/img/python-logo.png "Python")
 ![Golang](https://go.dev/images/go-logo-white.svg "GoLang")
 
