@@ -7,7 +7,7 @@ A polyglot might work on a web application where:
 1. ![Golang](https://go.dev/images/go-logo-blue.svg "GoLang") Go is used for building the backend services because of its speed and concurrency features.
 2. ![Python](https://www.python.org/static/img/python-logo.png "Python") Python is used for data analysis and machine learning because of its rich libraries like Pandas, NumPy, and Scikit-learn.
 3. ![Rust](https://www.rust-lang.org/static/images/rust-logo-blk.svg "Rust") Rust is employed for performance-critical tasks or systems programming where low-level memory control is essential.
-4. ![Aplollo GraphQL](https://w7.pngwing.com/pngs/238/408/png-transparent-apollo-graphql-compact-hd-logo.png) GraphQL is used as a query language to interact with the API, offering flexibility in how data is requested by the front end.
+4. ![Aplollo GraphQL]https://github.com/gitish/polyglot_training/tree/main/img/apollo.png) GraphQL is used as a query language to interact with the API, offering flexibility in how data is requested by the front end.
 
 ## Why Being a Polyglot is Valuable:
 * Efficiency: Polyglots can use the best tools for different parts of a project.
