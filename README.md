@@ -1,5 +1,12 @@
 # polyglot
-A polyglot in the context of programming refers to a developer or engineer who is proficient in multiple programming languages and technologies. Polyglot developers can effectively switch between languages depending on the requirements of a project, leveraging the strengths of each language to solve specific problems. Being a polyglot involves not just knowing the syntax of different languages, but also understanding their ecosystems, paradigms, and best practices.
+A polyglot in the context of programming refers to a developer or engineer who is proficient in multiple programming languages and technologies. 
+
+In this learning session below are some technology we are going to learn. 
+![Golang](https://go.dev/images/go-logo-white.svg "GoLang")
+![Python](https://www.python.org/static/img/python-logo.png "Python")
+![Golang](https://go.dev/images/go-logo-white.svg "GoLang")
+
+Polyglot developers can effectively switch between languages depending on the requirements of a project, leveraging the strengths of each language to solve specific problems. Being a polyglot involves not just knowing the syntax of different languages, but also understanding their ecosystems, paradigms, and best practices.
 
 ## Key Aspects of a Polyglot Developer:
 1. Language Versatility: Polyglot developers have a wide range of programming languages in their skill set, often including both high-level (e.g., Python, JavaScript) and low-level (e.g., C, Rust) languages. This allows them to choose the right tool for each job.
