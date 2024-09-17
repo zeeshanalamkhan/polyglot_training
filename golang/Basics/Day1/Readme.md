@@ -7,3 +7,5 @@
 4. Go to console and run ``` go run hello.go ```
 
 Declare a main package (a package is a way to group functions, and it's made up of all the files in the same directory).
+
+* Ref : https://go.dev/tour/basics/1
