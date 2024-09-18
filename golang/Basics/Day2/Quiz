@@ -1,0 +1,52 @@
+1. What type of language is Go?
+A) Dynamically typed, interpreted
+B) Statically typed, compiled
+C) Dynamically typed, compiled
+D) Statically typed, interpreted
+
+2. Which of the following is the correct way to declare and initialize a variable in Go?
+A) var x := 10
+B) x := 10
+C) var x = 10
+D) int x := 10
+
+3. What is the zero value for a string in Go?
+A) nil
+B) ""
+C) " "
+D) "0"
+
+4. What keyword is used to define a function in Go?
+A) func
+B) def
+C) function
+D) lambda
+
+5. Which of the following is true about Go's := operator?
+A) It can only be used inside functions.
+B) It can be used globally.
+C) It is used to declare variables with specific types.
+D) It can only be used for constant values.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answers:
+================
+1. B 
+2. C 
+3. B 
+4. A
+5. A

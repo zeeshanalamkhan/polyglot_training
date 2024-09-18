@@ -1,0 +1,39 @@
+1. Which of the following is not a valid Go loop structure?
+A) for
+B) while
+C) range
+D) for {}
+
+2. Which package is imported by default in Go programs?
+A) io
+B) os
+C) main
+D) fmt
+
+3. How do you declare a constant in Go?
+A) var CONSTANT = 5
+B) const CONSTANT = 5
+C) constant CONSTANT = 5
+D) CONST CONSTANT = 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answers
+==============
+1. B
+2. D
+3. B
