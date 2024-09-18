@@ -8,3 +8,5 @@ Go is expressive, concise, clean, and efficient. It's a fast, statically typed, 
 Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. 
 
 Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines. 
+
+![GoLang](https://miro.medium.com/v2/resize:fit:720/format:webp/1*jnT9eoQMlc96bGxTnIbK9g.jpeg)
