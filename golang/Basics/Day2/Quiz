@@ -28,9 +28,96 @@ B) It can be used globally.
 C) It is used to declare variables with specific types.
 D) It can only be used for constant values.
 
+6. What is the correct syntax to define a function in Go?
+A) function name(parameters) { }
+B) func name(parameters) { }
+C) define function name(parameters) { }
+D) define name(parameters) { }
+
+7. Which of the following is a valid way to define an interface in Go?
+A) interface MyInterface { }
+B) type MyInterface interface { }
+C) define interface MyInterface { }
+D) func MyInterface() { }
+
+8. What is the purpose of the defer keyword in Go?
+A) To declare a function
+B) To define an interface
+C) To delay the execution of a statement until the function returns
+D) To create a goroutine
+
+9) How do you access a field of a struct in Go?
+A) By using the . operator
+B) By using the -> operator
+C) By using square brackets []
+D) By using the # operator
+
+10. How do you create a new instance of a struct in Go?
+A) By using the new keyword
+B) By using the make keyword
+C) By using the struct keyword
+D) By using the instance keyword
+
+11. How do you dereference a pointer in Go?
+A) By using the * operator
+B) By using the & operator
+C) By using the -> operator
+D) By using the # operator
+
+12. What is the purpose of the & operator in Go?
+A) To create a new variable
+B) To dereference a pointer
+C) To get the memory address of a variable
+D) To define a function
 
 
+13. How do you create an empty slice in Go?
+A) var s []string
+B) s := []string{}
+C) s := make([]string, 0)
+D) All of the above
 
+14. What is the purpose of the append function in Go?
+A) To create a new slice
+B) To add elements to an existing slice
+C) To remove elements from a slice
+D) To sort a slice
+
+15. How do you access an element in a slice using its index?
+A) slice[index]
+B) slice.get(index)
+C) slice[index : index + 1]
+D) slice.at(index)
+
+16. What is the purpose of the cap function in Go?
+A) To get the length of a slice
+B) To get the capacity of a slice
+C) To create a new slice
+D) To sort a slice
+
+17. How do you create a map in Go?
+A) map[keyType]valueType
+B) make(map[keyType]valueType)
+C) new(map[keyType]valueType)
+D) All of the above
+
+18. How do you delete an element from a map?
+A) delete(map, key)
+B) map.remove(key)
+C) map[key] = nil
+D) map.delete(key)
+
+19. How do you iterate over a map in Go using the range keyword?
+A) for key, value := range map {}
+B) for key := range map {}
+C) for value := range map {}
+D) for index, value := range map {}
+
+20. How do you create a copy of a slice in Go?
+A) copy(newSlice, oldSlice)
+B) newSlice = oldSlice
+C) newSlice := append(oldSlice)
+D) newSlice := make([]string, len(oldSlice))
 
 
 
@@ -50,3 +137,18 @@ Answers:
 3. B 
 4. A
 5. A
+6. B
+7. B
+8. C
+9. A
+10. A
+11. A
+12. C
+13. D
+14. B
+15. A
+16. B
+17. D
+18. A
+19. A
+20. A
