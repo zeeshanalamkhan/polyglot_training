@@ -7,6 +7,9 @@ import (
 
 // handler function to process incoming HTTP requests
 func handler(w http.ResponseWriter, r *http.Request) {
+	fmt.Printf("Headers: %s\n", r.Header)
+	fmt.Printf("Method: %s\n", r.Method)
+	fmt.Printf("Path: %s\n", r.URL.Path)
 	// Write "Hello, World!" to the response writer
 	fmt.Fprintf(w, "Hello, World!")
 }
